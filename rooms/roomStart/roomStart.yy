@@ -17,8 +17,8 @@
   ],
   "name":"roomStart",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"gm-platformer",
+    "path":"gm-platformer.yyp",
   },
   "parentRoom":null,
   "physicsSettings":{
