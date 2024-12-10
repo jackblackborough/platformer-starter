@@ -36,7 +36,7 @@
     {"id":{"name":"oPlatform","path":"objects/oPlatform/oPlatform.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"room01","path":"rooms/room01/room01.yy",},},
-    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"id":{"name":"room02","path":"rooms/room02/room02.yy",},},
     {"id":{"name":"roomStart","path":"rooms/roomStart/roomStart.yy",},},
     {"id":{"name":"playerCollision","path":"scripts/playerCollision/playerCollision.yy",},},
     {"id":{"name":"playerInput","path":"scripts/playerInput/playerInput.yy",},},
@@ -57,7 +57,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"roomStart","path":"rooms/roomStart/roomStart.yy",},},
-    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"roomId":{"name":"room02","path":"rooms/room02/room02.yy",},},
     {"roomId":{"name":"room01","path":"rooms/room01/room01.yy",},},
   ],
   "templateType":"game",
