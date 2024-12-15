@@ -10,11 +10,6 @@ Check out the [starter project](https://github.com/deanblackborough/gm-platforme
 
 ![Screenshot](my-screenshot.png "Screenshot of first level")
 
-### Key
-- Grey - ground/solid objects
-- Red - jump through platforms
-- Blue - moving jump through platforms
-
 ## Controls
 
 Check the `player/scripts/playerInput` script file, the controls should be what you expect though.
