@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sFloorfilling",
-    "path":"sprites/sFloorfilling/sFloorfilling.yy",
+    "name":"sFloorBlack",
+    "path":"sprites/sFloorBlack/sFloorBlack.yy",
   },
   "spriteMaskId":null,
   "visible":true,
