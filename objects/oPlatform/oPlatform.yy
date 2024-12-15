@@ -6,8 +6,8 @@
   "name":"oPlatform",
   "overriddenProperties":[],
   "parent":{
-    "name":"MyGame",
-    "path":"folders/MyGame.yy",
+    "name":"Environment",
+    "path":"folders/MyGame/Environment.yy",
   },
   "parentObjectId":{
     "name":"oJumpThroughPlatform",
