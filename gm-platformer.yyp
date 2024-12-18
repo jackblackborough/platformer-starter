@@ -51,6 +51,7 @@
     {"id":{"name":"playerInput","path":"scripts/playerInput/playerInput.yy",},},
     {"id":{"name":"sBarrel","path":"sprites/sBarrel/sBarrel.yy",},},
     {"id":{"name":"sCastlevaniaBackground","path":"sprites/sCastlevaniaBackground/sCastlevaniaBackground.yy",},},
+    {"id":{"name":"sEnemyIdle","path":"sprites/sEnemyIdle/sEnemyIdle.yy",},},
     {"id":{"name":"sFloor","path":"sprites/sFloor/sFloor.yy",},},
     {"id":{"name":"sFloorBlack","path":"sprites/sFloorBlack/sFloorBlack.yy",},},
     {"id":{"name":"sGround","path":"sprites/sGround/sGround.yy",},},
