@@ -1,18 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"oEnemy",
+  "%Name":"oEnemyZombie",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oEnemy",
+  "name":"oEnemyZombie",
   "overriddenProperties":[],
   "parent":{
     "name":"Enemies",
     "path":"folders/MyGame/Enemies.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"oEnemyPatrol",
+    "path":"objects/oEnemyPatrol/oEnemyPatrol.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sEnemyIdle",
-    "path":"sprites/sEnemyIdle/sEnemyIdle.yy",
+    "name":"sEnemyZombieIdle",
+    "path":"sprites/sEnemyZombieIdle/sEnemyZombieIdle.yy",
   },
   "spriteMaskId":null,
   "visible":true,

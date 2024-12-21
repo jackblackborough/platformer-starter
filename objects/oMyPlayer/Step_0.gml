@@ -11,7 +11,7 @@ event_inherited();
 		playerInvincibilityTimer++
 	}
 
-	if place_meeting(x,y, oEnemy)
+	if place_meeting(x,y, oEnemyZombie)
 	{
 		playerHealth -= 1; 
 		playerInvincibilityTimer++
