@@ -97,7 +97,7 @@ else
 	enemySpriteFacing = 1;
 }
 
-if (enemySpeedX == 0) 
+if (enemySpeedX != 0) 
 {
 	sprite_index = enemySpriteRun;	
 	mask_index = enemySpriteRun;	

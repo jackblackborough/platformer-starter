@@ -4,7 +4,8 @@
 // Inherit the parent event
 event_inherited();
 
-enemySprite = sEnemyRun;
-enemySpriteIdle = sEnemyZombieIdle;
-enemySpriteRun = sEnemyRun;
+enemySprite = sEnemyZombieIdle;
+enemySpriteIdle = sEnemyZombieIdle_1;
+enemySpriteRun = sEnemyRun_1;
 enemySpeedX = 1.4
+
