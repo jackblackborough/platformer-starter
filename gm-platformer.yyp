@@ -103,8 +103,8 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"roomStart","path":"rooms/roomStart/roomStart.yy",},},
-    {"roomId":{"name":"room03","path":"rooms/room03/room03.yy",},},
     {"roomId":{"name":"room02","path":"rooms/room02/room02.yy",},},
+    {"roomId":{"name":"room03","path":"rooms/room03/room03.yy",},},
     {"roomId":{"name":"room01","path":"rooms/room01/room01.yy",},},
   ],
   "templateType":"game",
