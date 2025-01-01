@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"oBarrel",
+  "%Name":"oDoorway",
   "eventList":[],
   "managed":true,
-  "name":"oBarrel",
+  "name":"oDoorway",
   "overriddenProperties":[],
   "parent":{
     "name":"Environment",
     "path":"folders/MyGame/Environment.yy",
   },
-  "parentObjectId":{
-    "name":"oFloor",
-    "path":"objects/oFloor/oFloor.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sBarrel",
-    "path":"sprites/sBarrel/sBarrel.yy",
+    "name":"sDoorway",
+    "path":"sprites/sDoorway/sDoorway.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oBarrel",
+  "%Name":"oFloor2",
   "eventList":[],
   "managed":true,
-  "name":"oBarrel",
+  "name":"oFloor2",
   "overriddenProperties":[],
   "parent":{
     "name":"Environment",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sBarrel",
-    "path":"sprites/sBarrel/sBarrel.yy",
+    "name":"sFloor2",
+    "path":"sprites/sFloor2/sFloor2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
