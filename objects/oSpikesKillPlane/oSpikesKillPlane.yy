@@ -1,17 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"oEnemyZombie",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oSpikesKillPlane",
+  "eventList":[],
   "managed":true,
-  "name":"oEnemyZombie",
+  "name":"oSpikesKillPlane",
   "overriddenProperties":[],
   "parent":{
-    "name":"Enemies",
-    "path":"folders/MyGame/Enemies.yy",
+    "name":"Environment",
+    "path":"folders/MyGame/Environment.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"oKillPlane",
+    "path":"objects/oKillPlane/oKillPlane.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,9 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sEnemyZombieIdle",
-    "path":"sprites/sEnemyZombieIdle/sEnemyZombieIdle.yy",
+    "name":"sKillPlane",
+    "path":"sprites/sKillPlane/sKillPlane.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

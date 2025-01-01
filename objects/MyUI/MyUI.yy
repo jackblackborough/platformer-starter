@@ -1,17 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"oEnemyZombie",
+  "%Name":"MyUI",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oEnemyZombie",
+  "name":"MyUI",
   "overriddenProperties":[],
   "parent":{
-    "name":"Enemies",
-    "path":"folders/MyGame/Enemies.yy",
+    "name":"UI",
+    "path":"folders/MyGame/UI.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"UI",
+    "path":"objects/UI/UI.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -29,10 +32,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sEnemyZombieIdle",
-    "path":"sprites/sEnemyZombieIdle/sEnemyZombieIdle.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
