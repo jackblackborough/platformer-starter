@@ -5,8 +5,12 @@
 // moveInY = Bool
 // moveInXSpped = float
 // moveInYSpeed = float
-// moveInXAmount = float
-// moveInYAmount = float
+// moveInXAmount = int
+// moveInYAmount = int
+// sprite = asset (The sprite to use for the asset)
+// showDebug
+
+sprite_index = sprite;
 
 targetX = xstart;
 targetY = ystart;
@@ -27,5 +31,3 @@ if (moveInY == true)
 	
 	incrementY = true
 }
-
-showDebug = false;
