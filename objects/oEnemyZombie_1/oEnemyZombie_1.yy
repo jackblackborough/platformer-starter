@@ -6,9 +6,7 @@
   ],
   "managed":true,
   "name":"oEnemyZombie_1",
-  "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oEnemyPatrol","path":"objects/oEnemyPatrol/oEnemyPatrol.yy",},"propertyId":{"name":"enemyDamage","path":"objects/oEnemyPatrol/oEnemyPatrol.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"50",},
-  ],
+  "overriddenProperties":[],
   "parent":{
     "name":"Enemies",
     "path":"folders/MyGame/Enemies.yy",
