@@ -9,7 +9,10 @@
     "name":"Environment",
     "path":"folders/MyGame/Environment.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"oKillPlane",
+    "path":"objects/oKillPlane/oKillPlane.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

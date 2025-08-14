@@ -4,7 +4,9 @@
   "eventList":[],
   "managed":true,
   "name":"oPlatform",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oJumpThroughPlatform","path":"objects/oJumpThroughPlatform/oJumpThroughPlatform.yy",},"propertyId":{"name":"sprite","path":"objects/oJumpThroughPlatform/oJumpThroughPlatform.yy",},"resource":{"name":"sPlatform","path":"sprites/sPlatform/sPlatform.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"sPlatform",},
+  ],
   "parent":{
     "name":"Environment",
     "path":"folders/MyGame/Environment.yy",

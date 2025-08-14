@@ -406,7 +406,15 @@ if (place_meeting(x, y, oKillPlane))
 
 if (playerHealth <= 0) 
 {
-	room_restart();	
+	timer++
+	instance_create_depth(x,y,-8000, oGameOverScreen)
+	
+	if timer = 600
+	{
+	   room_restart();		
+		
+	}
+	
 }
 
 /*****************************************
@@ -476,4 +484,20 @@ if (playerSpeedY > 0 && playerOnGround != true)
 	mask_index = playerSpriteJump;
 	image_speed = 0;
 	image_index = 2;
+}
+
+if keyboard_check_pressed(vk_control)&& object_exists(oGameOverScreen)
+{
+    room_restart()	
+	
+}
+if place_meeting(x, y, owIN)
+{
+   playerMaxJumps=100
+   playerDashCooldownTimer--
+   playerMaxHealth = 500
+   playerHealth = 500
+   playerMovementSpeed= 4
+   playerJumpForce = -10
+   
 }

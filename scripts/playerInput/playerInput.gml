@@ -34,3 +34,5 @@ function getPlayerInput()
 	inputJumpKeyPressed = clamp(inputJumpKeyPressed, 0, 1);	
 
 }
+
+global.shootKey = keyboard_check(vk_f1)

@@ -66,3 +66,5 @@ activePlayerActivatedJumpThroughPlatformInstance = noone;
 
 // Quality options
 snapToColliders = true;
+
+timer = 1
