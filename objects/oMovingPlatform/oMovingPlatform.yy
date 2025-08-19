@@ -6,6 +6,7 @@
   "name":"oMovingPlatform",
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oMovingJumpThroughPlatform","path":"objects/oMovingJumpThroughPlatform/oMovingJumpThroughPlatform.yy",},"propertyId":{"name":"sprite","path":"objects/oMovingJumpThroughPlatform/oMovingJumpThroughPlatform.yy",},"resource":{"name":"sMovingPlatform","path":"sprites/sMovingPlatform/sMovingPlatform.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"sMovingPlatform",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oMovingJumpThroughPlatform","path":"objects/oMovingJumpThroughPlatform/oMovingJumpThroughPlatform.yy",},"propertyId":{"name":"moveInXAmount","path":"objects/oMovingJumpThroughPlatform/oMovingJumpThroughPlatform.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1000",},
   ],
   "parent":{
     "name":"Environment",
@@ -37,5 +38,5 @@
     "path":"sprites/sMovingPlatform/sMovingPlatform.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

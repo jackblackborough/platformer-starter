@@ -4,7 +4,9 @@
   "eventList":[],
   "managed":true,
   "name":"oBarrel",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oGround","path":"objects/oGround/oGround.yy",},"propertyId":{"name":"sprite","path":"objects/oGround/oGround.yy",},"resource":{"name":"sBarrel","path":"sprites/sBarrel/sBarrel.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"sBarrel",},
+  ],
   "parent":{
     "name":"Environment",
     "path":"folders/MyGame/Environment.yy",
