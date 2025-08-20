@@ -9,8 +9,8 @@
   "name":"owIN",
   "overriddenProperties":[],
   "parent":{
-    "name":"gm-platformer",
-    "path":"gm-platformer.yyp",
+    "name":"Environment",
+    "path":"folders/MyGame/Environment.yy",
   },
   "parentObjectId":null,
   "persistent":false,
