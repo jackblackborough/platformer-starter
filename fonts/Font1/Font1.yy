@@ -119,8 +119,8 @@
   "maintainGms1Font":false,
   "name":"Font1",
   "parent":{
-    "name":"gm-platformer",
-    "path":"gm-platformer.yyp",
+    "name":"Endless Runner Template_4",
+    "path":"Endless Runner Template_4.yyp",
   },
   "pointRounding":0,
   "ranges":[
@@ -134,10 +134,7 @@
   "sdfSpread":8,
   "size":24.0,
   "styleName":"Regular",
-  "textureGroupId":{
-    "name":"Default",
-    "path":"texturegroups/Default",
-  },
+  "textureGroupId":null,
   "TTFName":"",
   "usesSDF":false,
 }

@@ -6,7 +6,10 @@
   ],
   "managed":true,
   "name":"oHiddenPlatform",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oPlayerActivatedJumpThroughPlatform","path":"objects/oPlayerActivatedJumpThroughPlatform/oPlayerActivatedJumpThroughPlatform.yy",},"propertyId":{"name":"sprite","path":"objects/oPlayerActivatedJumpThroughPlatform/oPlayerActivatedJumpThroughPlatform.yy",},"resource":{"name":"sPlayerActivatedPlatformNotInUse","path":"sprites/sPlayerActivatedPlatformNotInUse/sPlayerActivatedPlatformNotInUse.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"sPlayerActivatedPlatformNotInUse",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oPlayerActivatedJumpThroughPlatform","path":"objects/oPlayerActivatedJumpThroughPlatform/oPlayerActivatedJumpThroughPlatform.yy",},"propertyId":{"name":"spriteActive","path":"objects/oPlayerActivatedJumpThroughPlatform/oPlayerActivatedJumpThroughPlatform.yy",},"resource":{"name":"sPlayerActivatedPlatformInUse","path":"sprites/sPlayerActivatedPlatformInUse/sPlayerActivatedPlatformInUse.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"sPlayerActivatedPlatformInUse",},
+  ],
   "parent":{
     "name":"Environment",
     "path":"folders/MyGame/Environment.yy",

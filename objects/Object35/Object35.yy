@@ -12,8 +12,8 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oEnemyPatrol","path":"objects/oEnemyPatrol/oEnemyPatrol.yy",},"propertyId":{"name":"enemyDamage","path":"objects/oEnemyPatrol/oEnemyPatrol.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"10",},
   ],
   "parent":{
-    "name":"gm-platformer",
-    "path":"gm-platformer.yyp",
+    "name":"Endless Runner Template_4",
+    "path":"Endless Runner Template_4.yyp",
   },
   "parentObjectId":{
     "name":"oEnemyPatrol",

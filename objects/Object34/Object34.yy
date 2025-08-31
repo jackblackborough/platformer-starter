@@ -8,8 +8,8 @@
   "name":"Object34",
   "overriddenProperties":[],
   "parent":{
-    "name":"gm-platformer",
-    "path":"gm-platformer.yyp",
+    "name":"Endless Runner Template_4",
+    "path":"Endless Runner Template_4.yyp",
   },
   "parentObjectId":null,
   "persistent":false,
