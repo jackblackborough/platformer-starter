@@ -26,7 +26,7 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"sprite","filters":[],"listItems":[],"multiselect":false,"name":"sprite","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"sGround","path":"sprites/sGround/sGround.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"sGround","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"sprite","filters":[],"listItems":[],"multiselect":false,"name":"sprite","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"sGround","path":"sprites/sGround/sGround.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"sGround","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
